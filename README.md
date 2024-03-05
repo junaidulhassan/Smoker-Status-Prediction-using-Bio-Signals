@@ -5,13 +5,13 @@ In this project, we utilize health data to predict whether an individual is a sm
 <https://www.kaggle.com/code/junaidullhassan/smoker-status-using-bio-signals-acc-79>
 
 ## Key Technologies & Libraries Used
-Python
-Jupyter Notebook
-Scikit-learn
-Seaborn
-NumPy
-Pandas
-Matplotlib
+* Python
+* Jupyter Notebook
+* Scikit-learn
+* Seaborn
+* NumPy
+* Pandas
+* Matplotlib
 
 ## Overview of Smoking Habits Analysis
 Smoking habits analysis, also known as tobacco consumption characterization, refers to evaluating health data to infer smoking status and intensity. Organizations and healthcare providers rely on such insights to drive personalized cessation programs, monitor recovery progress, and raise public awareness on the hazards of smoking.
