@@ -2,7 +2,7 @@
 In this project, we utilize health data to predict whether an individual is a smoker or non-smoker using machine learning algorithms. Our motivation revolves around deriving valuable insights from quantitative measurements, enabling informed health consultations, targeted interventions, and proactive treatments.
 
 ## Notebook at My Kaggle Profile
-<https://www.kaggle.com/code/junaidullhassan/smoker-status-using-bio-signals-acc-79>
+Link: <https://www.kaggle.com/code/junaidullhassan/smoker-status-using-bio-signals-acc-79>
 
 ## Key Technologies & Libraries Used
 * Python
